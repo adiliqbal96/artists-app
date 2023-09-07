@@ -1,0 +1,30 @@
+Artists App
+
+Description
+--------------
+This application allows you to manage a list of artists. You can add, edit, delete, and filter artists in the list.
+
+Requirements
+-------------
+Node.js
+Express
+CORS
+Body-parser
+
+
+Installation
+---------------------
+Clone the repository:
+git clone https://github.com/yourusername/artists-app.git
+
+Navigate to the project directory:
+cd artists-app
+
+Install the required packages:
+npm install 
+
+Running the Application:
+node server.js
+
+the server will start running on http://localhost:3000/.
+Open index.html in a web browser to interact with the application.
